@@ -1,0 +1,202 @@
+[
+  {
+    "year": 1,
+    "value": 235,
+    "growthRate": 0.00075
+  },
+  {
+    "year": 14,
+    "value": 256,
+    "growthRate": 0.00661
+  },
+  {
+    "year": 200,
+    "value": 234.33,
+    "growthRate": -0.00048
+  },
+  {
+    "year": 350,
+    "value": 254,
+    "growthRate": 0.00054
+  },
+  {
+    "year": 400,
+    "value": 200.66,
+    "growthRate": -0.0047
+  },
+  {
+    "year": 500,
+    "value": 198.5,
+    "growthRate": -0.00011
+  },
+  {
+    "year": 600,
+    "value": 212.75,
+    "growthRate": 0.00069
+  },
+  {
+    "year": 700,
+    "value": 207.66,
+    "growthRate": -0.00024
+  },
+  {
+    "year": 800,
+    "value": 232.25,
+    "growthRate": 0.00112
+  },
+  {
+    "year": 900,
+    "value": 229.3,
+    "growthRate": -0.00013
+  },
+  {
+    "year": 1000,
+    "value": 278.6,
+    "growthRate": 0.00195
+  },
+  {
+    "year": 1100,
+    "value": 306.6,
+    "growthRate": 0.00096
+  },
+  {
+    "year": 1200,
+    "value": 386,
+    "growthRate": 0.00231
+  },
+  {
+    "year": 1250,
+    "value": 417,
+    "growthRate": 0.00155
+  },
+  {
+    "year": 1300,
+    "value": 407.6,
+    "growthRate": -0.00046
+  },
+  {
+    "year": 1340,
+    "value": 410,
+    "growthRate": 0.00015
+  },
+  {
+    "year": 1400,
+    "value": 366.3,
+    "growthRate": -0.00188
+  },
+  {
+    "year": 1500,
+    "value": 458.8,
+    "growthRate": 0.00225
+  },
+  {
+    "year": 1600,
+    "value": 550,
+    "growthRate": 0.00181
+  },
+  {
+    "year": 1650,
+    "value": 535.3,
+    "growthRate": -0.00054
+  },
+  {
+    "year": 1700,
+    "value": 652.5,
+    "growthRate": 0.00397
+  },
+  {
+    "year": 1750,
+    "value": 751,
+    "growthRate": 0.00282
+  },
+  {
+    "year": 1800,
+    "value": 920.8,
+    "growthRate": 0.00409
+  },
+  {
+    "year": 1850,
+    "value": 1218,
+    "growthRate": 0.00561
+  },
+  {
+    "year": 1875,
+    "value": 1325,
+    "growthRate": 0.00337
+  },
+  {
+    "year": 1900,
+    "value": 1647,
+    "growthRate": 0.00874
+  },
+  {
+    "year": 1920,
+    "value": 1813,
+    "growthRate": 0.00481
+  },
+  {
+    "year": 1930,
+    "value": 1987,
+    "growthRate": 0.00921
+  },
+  {
+    "year": 1940,
+    "value": 2213,
+    "growthRate": 0.01083
+  },
+  {
+    "year": 1950,
+    "value": 2536,
+    "growthRate": 0.01372
+  },
+  {
+    "year": 1960,
+    "value": 3033,
+    "growthRate": 0.01806
+  },
+  {
+    "year": 1970,
+    "value": 3701,
+    "growthRate": 0.0201
+  },
+  {
+    "year": 1980,
+    "value": 4458,
+    "growthRate": 0.01878
+  },
+  {
+    "year": 1990,
+    "value": 5331,
+    "growthRate": 0.01804
+  },
+  {
+    "year": 2000,
+    "value": 6145,
+    "growthRate": 0.01431
+  },
+  {
+    "year": 2010,
+    "value": 6958,
+    "growthRate": 0.0125
+  },
+  {
+    "year": 2019,
+    "value": 7715,
+    "growthRate": 0.01154
+  },
+  {
+    "year": 2020,
+    "value": 7841,
+    "growthRate": 0.01633
+  },
+  {
+    "year": 2021,
+    "value": 7909,
+    "growthRate": 0.00867
+  },
+  {
+    "year": 2022,
+    "value": 7975,
+    "growthRate": 0.00834
+  }
+]

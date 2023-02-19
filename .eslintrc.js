@@ -11,6 +11,8 @@ module.exports = {
 			'@typescript-eslint/no-unsafe-assignment': 'off',
 			'@typescript-eslint/consistent-type-assertions': 'off',
 			'@typescript-eslint/consistent-type-definitions': 'off',
+			'@typescript-eslint/restrict-template-expressions': 'off',
+			'@typescript-eslint/naming-convention': 'off',
 		},
 	}],
 	parserOptions: {
@@ -19,7 +21,9 @@ module.exports = {
 	},
 	plugins: ['react'],
 	rules: {
+		'@typescript-eslint/restrict-template-expressions': 'off',
 		'@typescript-eslint/no-non-null-assertion': 'off',
 		'@typescript-eslint/no-unsafe-assignment': 'off',
+		'capitalized-comments': 'off',
 	},
 };

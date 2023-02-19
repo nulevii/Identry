@@ -1,0 +1,82 @@
+[
+  {
+    "year": 1950,
+    "deathNumber": 55800000,
+    "birthNumber": 97100000
+  },
+  {
+    "year": 1955,
+    "deathNumber": 58600000,
+    "birthNumber": 104900000
+  },
+  {
+    "year": 1960,
+    "deathNumber": 61700000,
+    "birthNumber": 107700000
+  },
+  {
+    "year": 1965,
+    "deathNumber": 66800000,
+    "birthNumber": 118600000
+  },
+  {
+    "year": 1970,
+    "deathNumber": 73400000,
+    "birthNumber": 134300000
+  },
+  {
+    "year": 1975,
+    "deathNumber": 79900000,
+    "birthNumber": 144300000
+  },
+  {
+    "year": 1980,
+    "deathNumber": 86600000,
+    "birthNumber": 137500000
+  },
+  {
+    "year": 1985,
+    "deathNumber": 92600000,
+    "birthNumber": 138900000
+  },
+  {
+    "year": 1990,
+    "deathNumber": 98600000,
+    "birthNumber": 137100000
+  },
+  {
+    "year": 1995,
+    "deathNumber": 103300000,
+    "birthNumber": 135400000
+  },
+  {
+    "year": 2000,
+    "deathNumber": 107300000,
+    "birthNumber": 133900000
+  },
+  {
+    "year": 2005,
+    "deathNumber": 108800000,
+    "birthNumber": 135200000
+  },
+  {
+    "year": 2010,
+    "deathNumber": 112800000,
+    "birthNumber": 134000000
+  },
+  {
+    "year": 2015,
+    "deathNumber": 126000000,
+    "birthNumber": 135100000
+  },
+  {
+    "year": 2020,
+    "deathNumber": 138300000,
+    "birthNumber": 135500000
+  },
+  {
+    "year": 2021,
+    "deathNumber": 140600000,
+    "birthNumber": 136100000
+  }
+]

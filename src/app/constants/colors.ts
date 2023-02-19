@@ -82,3 +82,21 @@ export const borderColors = {
 	black8: 'border-black-8',
 };
 
+export const colors = {
+	primary: '#E3000F',
+	secondary: '#365B9A',
+	tertiary: '#FCD20B',
+	gray: '#808080',
+	gainsboro: '#DCDCDC',
+	whiteSmoke: '#F5F5F5',
+	white: '#FFFFFF',
+	success: '#4CAF50',
+	danger: '#E65050',
+	warning: '#F2A635',
+	info: '#4B9BE8',
+	link: '#0F6AFF',
+	background: '#FBFBFB',
+	black100: '#263238',
+	black16: '#2d2d2d29',
+	black8: '#2d2d2d14',
+};
